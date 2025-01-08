@@ -1,5 +1,5 @@
 # CENG112_DataStructures_HW3
-Coding Homework 3 of CENG112 at Izmir Institute of Technology Spring 24'
+Coding homework 3 of CENG112 Course at Izmir Institute of Technology Spring 24'
 # Product Inventory Management System
 
 This project implements a product inventory management system using Java that sorts products by category and name.
