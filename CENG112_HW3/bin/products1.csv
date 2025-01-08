@@ -1,0 +1,12 @@
+add,Bakery,Bread,3
+add,Beverage,Juice,12
+add,Fruit,Apple,20
+add,Vegetable,Carrot,25
+list
+add,Fruit,Orange,30
+search,Apple
+search,Soap
+add,Dairy,Cheese,100
+list
+add,Meat,Chicken,50
+search,Bread
